@@ -1,0 +1,1 @@
+This code implements a Baccarat game using a graphical user interface (GUI) with Tkinter. It allows users to place bets, draw cards, and determine winners based on standard Baccarat rules, while providing error handling and visual feedback for player interactions.
